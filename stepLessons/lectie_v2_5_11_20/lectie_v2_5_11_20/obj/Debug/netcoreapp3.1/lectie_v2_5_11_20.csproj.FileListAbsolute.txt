@@ -1,0 +1,13 @@
+D:\C_Sharp\lectie_v2_5_11_20\lectie_v2_5_11_20\bin\Debug\netcoreapp3.1\lectie_v2_5_11_20.exe
+D:\C_Sharp\lectie_v2_5_11_20\lectie_v2_5_11_20\bin\Debug\netcoreapp3.1\lectie_v2_5_11_20.deps.json
+D:\C_Sharp\lectie_v2_5_11_20\lectie_v2_5_11_20\bin\Debug\netcoreapp3.1\lectie_v2_5_11_20.runtimeconfig.json
+D:\C_Sharp\lectie_v2_5_11_20\lectie_v2_5_11_20\bin\Debug\netcoreapp3.1\lectie_v2_5_11_20.runtimeconfig.dev.json
+D:\C_Sharp\lectie_v2_5_11_20\lectie_v2_5_11_20\bin\Debug\netcoreapp3.1\lectie_v2_5_11_20.dll
+D:\C_Sharp\lectie_v2_5_11_20\lectie_v2_5_11_20\bin\Debug\netcoreapp3.1\lectie_v2_5_11_20.pdb
+D:\C_Sharp\lectie_v2_5_11_20\lectie_v2_5_11_20\obj\Debug\netcoreapp3.1\lectie_v2_5_11_20.csprojAssemblyReference.cache
+D:\C_Sharp\lectie_v2_5_11_20\lectie_v2_5_11_20\obj\Debug\netcoreapp3.1\lectie_v2_5_11_20.csproj.CoreCompileInputs.cache
+D:\C_Sharp\lectie_v2_5_11_20\lectie_v2_5_11_20\obj\Debug\netcoreapp3.1\lectie_v2_5_11_20.AssemblyInfoInputs.cache
+D:\C_Sharp\lectie_v2_5_11_20\lectie_v2_5_11_20\obj\Debug\netcoreapp3.1\lectie_v2_5_11_20.AssemblyInfo.cs
+D:\C_Sharp\lectie_v2_5_11_20\lectie_v2_5_11_20\obj\Debug\netcoreapp3.1\lectie_v2_5_11_20.dll
+D:\C_Sharp\lectie_v2_5_11_20\lectie_v2_5_11_20\obj\Debug\netcoreapp3.1\lectie_v2_5_11_20.pdb
+D:\C_Sharp\lectie_v2_5_11_20\lectie_v2_5_11_20\obj\Debug\netcoreapp3.1\lectie_v2_5_11_20.genruntimeconfig.cache

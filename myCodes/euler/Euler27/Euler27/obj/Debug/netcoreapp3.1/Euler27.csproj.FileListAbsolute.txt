@@ -1,0 +1,13 @@
+D:\C_Sharp\Euler27\Euler27\bin\Debug\netcoreapp3.1\Euler27.exe
+D:\C_Sharp\Euler27\Euler27\bin\Debug\netcoreapp3.1\Euler27.deps.json
+D:\C_Sharp\Euler27\Euler27\bin\Debug\netcoreapp3.1\Euler27.runtimeconfig.json
+D:\C_Sharp\Euler27\Euler27\bin\Debug\netcoreapp3.1\Euler27.runtimeconfig.dev.json
+D:\C_Sharp\Euler27\Euler27\bin\Debug\netcoreapp3.1\Euler27.dll
+D:\C_Sharp\Euler27\Euler27\bin\Debug\netcoreapp3.1\Euler27.pdb
+D:\C_Sharp\Euler27\Euler27\obj\Debug\netcoreapp3.1\Euler27.csprojAssemblyReference.cache
+D:\C_Sharp\Euler27\Euler27\obj\Debug\netcoreapp3.1\Euler27.AssemblyInfoInputs.cache
+D:\C_Sharp\Euler27\Euler27\obj\Debug\netcoreapp3.1\Euler27.AssemblyInfo.cs
+D:\C_Sharp\Euler27\Euler27\obj\Debug\netcoreapp3.1\Euler27.csproj.CoreCompileInputs.cache
+D:\C_Sharp\Euler27\Euler27\obj\Debug\netcoreapp3.1\Euler27.dll
+D:\C_Sharp\Euler27\Euler27\obj\Debug\netcoreapp3.1\Euler27.pdb
+D:\C_Sharp\Euler27\Euler27\obj\Debug\netcoreapp3.1\Euler27.genruntimeconfig.cache

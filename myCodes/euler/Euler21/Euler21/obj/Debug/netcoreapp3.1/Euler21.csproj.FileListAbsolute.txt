@@ -1,0 +1,13 @@
+D:\C_Sharp\Euler21\Euler21\bin\Debug\netcoreapp3.1\Euler21.exe
+D:\C_Sharp\Euler21\Euler21\bin\Debug\netcoreapp3.1\Euler21.deps.json
+D:\C_Sharp\Euler21\Euler21\bin\Debug\netcoreapp3.1\Euler21.runtimeconfig.json
+D:\C_Sharp\Euler21\Euler21\bin\Debug\netcoreapp3.1\Euler21.runtimeconfig.dev.json
+D:\C_Sharp\Euler21\Euler21\bin\Debug\netcoreapp3.1\Euler21.dll
+D:\C_Sharp\Euler21\Euler21\bin\Debug\netcoreapp3.1\Euler21.pdb
+D:\C_Sharp\Euler21\Euler21\obj\Debug\netcoreapp3.1\Euler21.csprojAssemblyReference.cache
+D:\C_Sharp\Euler21\Euler21\obj\Debug\netcoreapp3.1\Euler21.csproj.CoreCompileInputs.cache
+D:\C_Sharp\Euler21\Euler21\obj\Debug\netcoreapp3.1\Euler21.AssemblyInfoInputs.cache
+D:\C_Sharp\Euler21\Euler21\obj\Debug\netcoreapp3.1\Euler21.AssemblyInfo.cs
+D:\C_Sharp\Euler21\Euler21\obj\Debug\netcoreapp3.1\Euler21.dll
+D:\C_Sharp\Euler21\Euler21\obj\Debug\netcoreapp3.1\Euler21.pdb
+D:\C_Sharp\Euler21\Euler21\obj\Debug\netcoreapp3.1\Euler21.genruntimeconfig.cache

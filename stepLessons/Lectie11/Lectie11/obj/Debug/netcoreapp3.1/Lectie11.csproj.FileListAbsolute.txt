@@ -1,0 +1,13 @@
+D:\C_Sharp\Lectie11\Lectie11\bin\Debug\netcoreapp3.1\Lectie11.exe
+D:\C_Sharp\Lectie11\Lectie11\bin\Debug\netcoreapp3.1\Lectie11.deps.json
+D:\C_Sharp\Lectie11\Lectie11\bin\Debug\netcoreapp3.1\Lectie11.runtimeconfig.json
+D:\C_Sharp\Lectie11\Lectie11\bin\Debug\netcoreapp3.1\Lectie11.runtimeconfig.dev.json
+D:\C_Sharp\Lectie11\Lectie11\bin\Debug\netcoreapp3.1\Lectie11.dll
+D:\C_Sharp\Lectie11\Lectie11\bin\Debug\netcoreapp3.1\Lectie11.pdb
+D:\C_Sharp\Lectie11\Lectie11\obj\Debug\netcoreapp3.1\Lectie11.csprojAssemblyReference.cache
+D:\C_Sharp\Lectie11\Lectie11\obj\Debug\netcoreapp3.1\Lectie11.csproj.CoreCompileInputs.cache
+D:\C_Sharp\Lectie11\Lectie11\obj\Debug\netcoreapp3.1\Lectie11.AssemblyInfoInputs.cache
+D:\C_Sharp\Lectie11\Lectie11\obj\Debug\netcoreapp3.1\Lectie11.AssemblyInfo.cs
+D:\C_Sharp\Lectie11\Lectie11\obj\Debug\netcoreapp3.1\Lectie11.dll
+D:\C_Sharp\Lectie11\Lectie11\obj\Debug\netcoreapp3.1\Lectie11.pdb
+D:\C_Sharp\Lectie11\Lectie11\obj\Debug\netcoreapp3.1\Lectie11.genruntimeconfig.cache

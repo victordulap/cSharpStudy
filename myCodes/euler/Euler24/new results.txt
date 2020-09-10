@@ -1,0 +1,2 @@
+time: 667766 ms (11 minute 7  sec) (cu afisare)
+time: 443168 ms (7 minute 23 sec) (fara afisare)

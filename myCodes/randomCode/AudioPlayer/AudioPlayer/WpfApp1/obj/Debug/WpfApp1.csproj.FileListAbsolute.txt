@@ -1,0 +1,30 @@
+D:\Step IT. C#\WPF Baze\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\Step IT. C#\WPF Baze\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+D:\Step IT. C#\WPF Baze\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\Step IT. C#\WPF Baze\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+D:\Step IT. C#\WPF Baze\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\Step IT. C#\WPF Baze\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+D:\Step IT. C#\WPF Baze\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\Step IT. C#\WPF Baze\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\Step IT. C#\WPF Baze\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+D:\Step IT. C#\WPF Baze\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\Step IT. C#\WPF Baze\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\Step IT. C#\WPF Baze\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\Step IT. C#\WPF Baze\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\Step IT. C#\WPF Baze\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+D:\Step IT. C#\WPF Baze\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\C_Sharp\AudioPlayer\AudioPlayer\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\C_Sharp\AudioPlayer\AudioPlayer\WpfApp1\bin\Debug\WpfApp1.exe
+D:\C_Sharp\AudioPlayer\AudioPlayer\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\C_Sharp\AudioPlayer\AudioPlayer\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+D:\C_Sharp\AudioPlayer\AudioPlayer\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\C_Sharp\AudioPlayer\AudioPlayer\WpfApp1\obj\Debug\App.g.cs
+D:\C_Sharp\AudioPlayer\AudioPlayer\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\C_Sharp\AudioPlayer\AudioPlayer\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\C_Sharp\AudioPlayer\AudioPlayer\WpfApp1\obj\Debug\MainWindow.baml
+D:\C_Sharp\AudioPlayer\AudioPlayer\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\C_Sharp\AudioPlayer\AudioPlayer\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\C_Sharp\AudioPlayer\AudioPlayer\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\C_Sharp\AudioPlayer\AudioPlayer\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\C_Sharp\AudioPlayer\AudioPlayer\WpfApp1\obj\Debug\WpfApp1.exe
+D:\C_Sharp\AudioPlayer\AudioPlayer\WpfApp1\obj\Debug\WpfApp1.pdb

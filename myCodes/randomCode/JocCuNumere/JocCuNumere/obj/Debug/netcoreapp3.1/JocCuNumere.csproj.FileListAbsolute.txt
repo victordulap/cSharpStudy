@@ -1,0 +1,13 @@
+D:\C_Sharp\JocCuNumere\JocCuNumere\bin\Debug\netcoreapp3.1\JocCuNumere.exe
+D:\C_Sharp\JocCuNumere\JocCuNumere\bin\Debug\netcoreapp3.1\JocCuNumere.deps.json
+D:\C_Sharp\JocCuNumere\JocCuNumere\bin\Debug\netcoreapp3.1\JocCuNumere.runtimeconfig.json
+D:\C_Sharp\JocCuNumere\JocCuNumere\bin\Debug\netcoreapp3.1\JocCuNumere.runtimeconfig.dev.json
+D:\C_Sharp\JocCuNumere\JocCuNumere\bin\Debug\netcoreapp3.1\JocCuNumere.dll
+D:\C_Sharp\JocCuNumere\JocCuNumere\bin\Debug\netcoreapp3.1\JocCuNumere.pdb
+D:\C_Sharp\JocCuNumere\JocCuNumere\obj\Debug\netcoreapp3.1\JocCuNumere.csprojAssemblyReference.cache
+D:\C_Sharp\JocCuNumere\JocCuNumere\obj\Debug\netcoreapp3.1\JocCuNumere.csproj.CoreCompileInputs.cache
+D:\C_Sharp\JocCuNumere\JocCuNumere\obj\Debug\netcoreapp3.1\JocCuNumere.AssemblyInfoInputs.cache
+D:\C_Sharp\JocCuNumere\JocCuNumere\obj\Debug\netcoreapp3.1\JocCuNumere.AssemblyInfo.cs
+D:\C_Sharp\JocCuNumere\JocCuNumere\obj\Debug\netcoreapp3.1\JocCuNumere.dll
+D:\C_Sharp\JocCuNumere\JocCuNumere\obj\Debug\netcoreapp3.1\JocCuNumere.pdb
+D:\C_Sharp\JocCuNumere\JocCuNumere\obj\Debug\netcoreapp3.1\JocCuNumere.genruntimeconfig.cache

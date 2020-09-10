@@ -1,0 +1,13 @@
+D:\C_Sharp\Euler30\Euler30\bin\Debug\netcoreapp3.1\Euler30.exe
+D:\C_Sharp\Euler30\Euler30\bin\Debug\netcoreapp3.1\Euler30.deps.json
+D:\C_Sharp\Euler30\Euler30\bin\Debug\netcoreapp3.1\Euler30.runtimeconfig.json
+D:\C_Sharp\Euler30\Euler30\bin\Debug\netcoreapp3.1\Euler30.runtimeconfig.dev.json
+D:\C_Sharp\Euler30\Euler30\bin\Debug\netcoreapp3.1\Euler30.dll
+D:\C_Sharp\Euler30\Euler30\bin\Debug\netcoreapp3.1\Euler30.pdb
+D:\C_Sharp\Euler30\Euler30\obj\Debug\netcoreapp3.1\Euler30.csprojAssemblyReference.cache
+D:\C_Sharp\Euler30\Euler30\obj\Debug\netcoreapp3.1\Euler30.AssemblyInfoInputs.cache
+D:\C_Sharp\Euler30\Euler30\obj\Debug\netcoreapp3.1\Euler30.AssemblyInfo.cs
+D:\C_Sharp\Euler30\Euler30\obj\Debug\netcoreapp3.1\Euler30.csproj.CoreCompileInputs.cache
+D:\C_Sharp\Euler30\Euler30\obj\Debug\netcoreapp3.1\Euler30.dll
+D:\C_Sharp\Euler30\Euler30\obj\Debug\netcoreapp3.1\Euler30.pdb
+D:\C_Sharp\Euler30\Euler30\obj\Debug\netcoreapp3.1\Euler30.genruntimeconfig.cache

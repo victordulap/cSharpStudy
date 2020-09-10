@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<ArrayOfCat xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Cat>
+    <Name>Tom</Name>
+    <Age>7</Age>
+    <Greutate>7</Greutate>
+  </Cat>
+  <Cat>
+    <Name>Murca</Name>
+    <Age>5</Age>
+    <Greutate>4</Greutate>
+  </Cat>
+</ArrayOfCat>

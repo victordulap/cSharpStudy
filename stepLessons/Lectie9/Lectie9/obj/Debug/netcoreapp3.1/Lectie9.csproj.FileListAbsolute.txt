@@ -1,0 +1,13 @@
+D:\C_Sharp\Lectie9\Lectie9\bin\Debug\netcoreapp3.1\Lectie9.exe
+D:\C_Sharp\Lectie9\Lectie9\bin\Debug\netcoreapp3.1\Lectie9.deps.json
+D:\C_Sharp\Lectie9\Lectie9\bin\Debug\netcoreapp3.1\Lectie9.runtimeconfig.json
+D:\C_Sharp\Lectie9\Lectie9\bin\Debug\netcoreapp3.1\Lectie9.runtimeconfig.dev.json
+D:\C_Sharp\Lectie9\Lectie9\bin\Debug\netcoreapp3.1\Lectie9.dll
+D:\C_Sharp\Lectie9\Lectie9\bin\Debug\netcoreapp3.1\Lectie9.pdb
+D:\C_Sharp\Lectie9\Lectie9\obj\Debug\netcoreapp3.1\Lectie9.csprojAssemblyReference.cache
+D:\C_Sharp\Lectie9\Lectie9\obj\Debug\netcoreapp3.1\Lectie9.csproj.CoreCompileInputs.cache
+D:\C_Sharp\Lectie9\Lectie9\obj\Debug\netcoreapp3.1\Lectie9.AssemblyInfoInputs.cache
+D:\C_Sharp\Lectie9\Lectie9\obj\Debug\netcoreapp3.1\Lectie9.AssemblyInfo.cs
+D:\C_Sharp\Lectie9\Lectie9\obj\Debug\netcoreapp3.1\Lectie9.dll
+D:\C_Sharp\Lectie9\Lectie9\obj\Debug\netcoreapp3.1\Lectie9.pdb
+D:\C_Sharp\Lectie9\Lectie9\obj\Debug\netcoreapp3.1\Lectie9.genruntimeconfig.cache

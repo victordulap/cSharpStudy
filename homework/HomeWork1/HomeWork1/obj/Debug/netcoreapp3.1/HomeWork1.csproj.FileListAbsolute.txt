@@ -1,0 +1,13 @@
+D:\C_Sharp\HomeWork1\HomeWork1\obj\Debug\netcoreapp3.1\HomeWork1.csprojAssemblyReference.cache
+D:\C_Sharp\HomeWork1\HomeWork1\obj\Debug\netcoreapp3.1\HomeWork1.csproj.CoreCompileInputs.cache
+D:\C_Sharp\HomeWork1\HomeWork1\obj\Debug\netcoreapp3.1\HomeWork1.AssemblyInfoInputs.cache
+D:\C_Sharp\HomeWork1\HomeWork1\obj\Debug\netcoreapp3.1\HomeWork1.AssemblyInfo.cs
+D:\C_Sharp\HomeWork1\HomeWork1\bin\Debug\netcoreapp3.1\HomeWork1.exe
+D:\C_Sharp\HomeWork1\HomeWork1\bin\Debug\netcoreapp3.1\HomeWork1.deps.json
+D:\C_Sharp\HomeWork1\HomeWork1\bin\Debug\netcoreapp3.1\HomeWork1.runtimeconfig.json
+D:\C_Sharp\HomeWork1\HomeWork1\bin\Debug\netcoreapp3.1\HomeWork1.runtimeconfig.dev.json
+D:\C_Sharp\HomeWork1\HomeWork1\bin\Debug\netcoreapp3.1\HomeWork1.dll
+D:\C_Sharp\HomeWork1\HomeWork1\bin\Debug\netcoreapp3.1\HomeWork1.pdb
+D:\C_Sharp\HomeWork1\HomeWork1\obj\Debug\netcoreapp3.1\HomeWork1.dll
+D:\C_Sharp\HomeWork1\HomeWork1\obj\Debug\netcoreapp3.1\HomeWork1.pdb
+D:\C_Sharp\HomeWork1\HomeWork1\obj\Debug\netcoreapp3.1\HomeWork1.genruntimeconfig.cache

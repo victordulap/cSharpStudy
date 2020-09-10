@@ -1,0 +1,13 @@
+D:\C_Sharp\Lectia12\Lectia12\bin\Debug\netcoreapp3.1\Lectia12.exe
+D:\C_Sharp\Lectia12\Lectia12\bin\Debug\netcoreapp3.1\Lectia12.deps.json
+D:\C_Sharp\Lectia12\Lectia12\bin\Debug\netcoreapp3.1\Lectia12.runtimeconfig.json
+D:\C_Sharp\Lectia12\Lectia12\bin\Debug\netcoreapp3.1\Lectia12.runtimeconfig.dev.json
+D:\C_Sharp\Lectia12\Lectia12\bin\Debug\netcoreapp3.1\Lectia12.dll
+D:\C_Sharp\Lectia12\Lectia12\bin\Debug\netcoreapp3.1\Lectia12.pdb
+D:\C_Sharp\Lectia12\Lectia12\obj\Debug\netcoreapp3.1\Lectia12.csprojAssemblyReference.cache
+D:\C_Sharp\Lectia12\Lectia12\obj\Debug\netcoreapp3.1\Lectia12.csproj.CoreCompileInputs.cache
+D:\C_Sharp\Lectia12\Lectia12\obj\Debug\netcoreapp3.1\Lectia12.AssemblyInfoInputs.cache
+D:\C_Sharp\Lectia12\Lectia12\obj\Debug\netcoreapp3.1\Lectia12.AssemblyInfo.cs
+D:\C_Sharp\Lectia12\Lectia12\obj\Debug\netcoreapp3.1\Lectia12.dll
+D:\C_Sharp\Lectia12\Lectia12\obj\Debug\netcoreapp3.1\Lectia12.pdb
+D:\C_Sharp\Lectia12\Lectia12\obj\Debug\netcoreapp3.1\Lectia12.genruntimeconfig.cache

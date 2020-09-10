@@ -1,0 +1,13 @@
+D:\C_Sharp\HW8\HW8\bin\Debug\netcoreapp3.1\HW8.exe
+D:\C_Sharp\HW8\HW8\bin\Debug\netcoreapp3.1\HW8.deps.json
+D:\C_Sharp\HW8\HW8\bin\Debug\netcoreapp3.1\HW8.runtimeconfig.json
+D:\C_Sharp\HW8\HW8\bin\Debug\netcoreapp3.1\HW8.runtimeconfig.dev.json
+D:\C_Sharp\HW8\HW8\bin\Debug\netcoreapp3.1\HW8.dll
+D:\C_Sharp\HW8\HW8\bin\Debug\netcoreapp3.1\HW8.pdb
+D:\C_Sharp\HW8\HW8\obj\Debug\netcoreapp3.1\HW8.csprojAssemblyReference.cache
+D:\C_Sharp\HW8\HW8\obj\Debug\netcoreapp3.1\HW8.csproj.CoreCompileInputs.cache
+D:\C_Sharp\HW8\HW8\obj\Debug\netcoreapp3.1\HW8.AssemblyInfoInputs.cache
+D:\C_Sharp\HW8\HW8\obj\Debug\netcoreapp3.1\HW8.AssemblyInfo.cs
+D:\C_Sharp\HW8\HW8\obj\Debug\netcoreapp3.1\HW8.dll
+D:\C_Sharp\HW8\HW8\obj\Debug\netcoreapp3.1\HW8.pdb
+D:\C_Sharp\HW8\HW8\obj\Debug\netcoreapp3.1\HW8.genruntimeconfig.cache

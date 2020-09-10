@@ -1,0 +1,13 @@
+D:\C_Sharp\Euler15\Euler15\bin\Debug\netcoreapp3.1\Euler15.exe
+D:\C_Sharp\Euler15\Euler15\bin\Debug\netcoreapp3.1\Euler15.deps.json
+D:\C_Sharp\Euler15\Euler15\bin\Debug\netcoreapp3.1\Euler15.runtimeconfig.json
+D:\C_Sharp\Euler15\Euler15\bin\Debug\netcoreapp3.1\Euler15.runtimeconfig.dev.json
+D:\C_Sharp\Euler15\Euler15\bin\Debug\netcoreapp3.1\Euler15.dll
+D:\C_Sharp\Euler15\Euler15\bin\Debug\netcoreapp3.1\Euler15.pdb
+D:\C_Sharp\Euler15\Euler15\obj\Debug\netcoreapp3.1\Euler15.csprojAssemblyReference.cache
+D:\C_Sharp\Euler15\Euler15\obj\Debug\netcoreapp3.1\Euler15.csproj.CoreCompileInputs.cache
+D:\C_Sharp\Euler15\Euler15\obj\Debug\netcoreapp3.1\Euler15.AssemblyInfoInputs.cache
+D:\C_Sharp\Euler15\Euler15\obj\Debug\netcoreapp3.1\Euler15.AssemblyInfo.cs
+D:\C_Sharp\Euler15\Euler15\obj\Debug\netcoreapp3.1\Euler15.dll
+D:\C_Sharp\Euler15\Euler15\obj\Debug\netcoreapp3.1\Euler15.pdb
+D:\C_Sharp\Euler15\Euler15\obj\Debug\netcoreapp3.1\Euler15.genruntimeconfig.cache

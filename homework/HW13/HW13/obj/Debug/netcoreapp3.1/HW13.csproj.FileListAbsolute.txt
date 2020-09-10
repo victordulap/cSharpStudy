@@ -1,0 +1,13 @@
+D:\C_Sharp\HW13\HW13\obj\Debug\netcoreapp3.1\HW13.csprojAssemblyReference.cache
+D:\C_Sharp\HW13\HW13\obj\Debug\netcoreapp3.1\HW13.csproj.CoreCompileInputs.cache
+D:\C_Sharp\HW13\HW13\obj\Debug\netcoreapp3.1\HW13.AssemblyInfoInputs.cache
+D:\C_Sharp\HW13\HW13\obj\Debug\netcoreapp3.1\HW13.AssemblyInfo.cs
+D:\C_Sharp\HW13\HW13\bin\Debug\netcoreapp3.1\HW13.exe
+D:\C_Sharp\HW13\HW13\bin\Debug\netcoreapp3.1\HW13.deps.json
+D:\C_Sharp\HW13\HW13\bin\Debug\netcoreapp3.1\HW13.runtimeconfig.json
+D:\C_Sharp\HW13\HW13\bin\Debug\netcoreapp3.1\HW13.runtimeconfig.dev.json
+D:\C_Sharp\HW13\HW13\bin\Debug\netcoreapp3.1\HW13.dll
+D:\C_Sharp\HW13\HW13\bin\Debug\netcoreapp3.1\HW13.pdb
+D:\C_Sharp\HW13\HW13\obj\Debug\netcoreapp3.1\HW13.dll
+D:\C_Sharp\HW13\HW13\obj\Debug\netcoreapp3.1\HW13.pdb
+D:\C_Sharp\HW13\HW13\obj\Debug\netcoreapp3.1\HW13.genruntimeconfig.cache

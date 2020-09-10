@@ -1,0 +1,13 @@
+D:\C_Sharp\Lectie7\Lectie7\bin\Debug\netcoreapp3.1\Lectie7.exe
+D:\C_Sharp\Lectie7\Lectie7\bin\Debug\netcoreapp3.1\Lectie7.deps.json
+D:\C_Sharp\Lectie7\Lectie7\bin\Debug\netcoreapp3.1\Lectie7.runtimeconfig.json
+D:\C_Sharp\Lectie7\Lectie7\bin\Debug\netcoreapp3.1\Lectie7.runtimeconfig.dev.json
+D:\C_Sharp\Lectie7\Lectie7\bin\Debug\netcoreapp3.1\Lectie7.dll
+D:\C_Sharp\Lectie7\Lectie7\bin\Debug\netcoreapp3.1\Lectie7.pdb
+D:\C_Sharp\Lectie7\Lectie7\obj\Debug\netcoreapp3.1\Lectie7.csprojAssemblyReference.cache
+D:\C_Sharp\Lectie7\Lectie7\obj\Debug\netcoreapp3.1\Lectie7.csproj.CoreCompileInputs.cache
+D:\C_Sharp\Lectie7\Lectie7\obj\Debug\netcoreapp3.1\Lectie7.AssemblyInfoInputs.cache
+D:\C_Sharp\Lectie7\Lectie7\obj\Debug\netcoreapp3.1\Lectie7.AssemblyInfo.cs
+D:\C_Sharp\Lectie7\Lectie7\obj\Debug\netcoreapp3.1\Lectie7.dll
+D:\C_Sharp\Lectie7\Lectie7\obj\Debug\netcoreapp3.1\Lectie7.pdb
+D:\C_Sharp\Lectie7\Lectie7\obj\Debug\netcoreapp3.1\Lectie7.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\C_Sharp\Euler23DePeNet\Euler23DePeNet\bin\Debug\netcoreapp3.1\Euler23DePeNet.exe
+D:\C_Sharp\Euler23DePeNet\Euler23DePeNet\bin\Debug\netcoreapp3.1\Euler23DePeNet.deps.json
+D:\C_Sharp\Euler23DePeNet\Euler23DePeNet\bin\Debug\netcoreapp3.1\Euler23DePeNet.runtimeconfig.json
+D:\C_Sharp\Euler23DePeNet\Euler23DePeNet\bin\Debug\netcoreapp3.1\Euler23DePeNet.runtimeconfig.dev.json
+D:\C_Sharp\Euler23DePeNet\Euler23DePeNet\bin\Debug\netcoreapp3.1\Euler23DePeNet.dll
+D:\C_Sharp\Euler23DePeNet\Euler23DePeNet\bin\Debug\netcoreapp3.1\Euler23DePeNet.pdb
+D:\C_Sharp\Euler23DePeNet\Euler23DePeNet\obj\Debug\netcoreapp3.1\Euler23DePeNet.AssemblyInfoInputs.cache
+D:\C_Sharp\Euler23DePeNet\Euler23DePeNet\obj\Debug\netcoreapp3.1\Euler23DePeNet.AssemblyInfo.cs
+D:\C_Sharp\Euler23DePeNet\Euler23DePeNet\obj\Debug\netcoreapp3.1\Euler23DePeNet.csproj.CoreCompileInputs.cache
+D:\C_Sharp\Euler23DePeNet\Euler23DePeNet\obj\Debug\netcoreapp3.1\Euler23DePeNet.dll
+D:\C_Sharp\Euler23DePeNet\Euler23DePeNet\obj\Debug\netcoreapp3.1\Euler23DePeNet.pdb
+D:\C_Sharp\Euler23DePeNet\Euler23DePeNet\obj\Debug\netcoreapp3.1\Euler23DePeNet.genruntimeconfig.cache

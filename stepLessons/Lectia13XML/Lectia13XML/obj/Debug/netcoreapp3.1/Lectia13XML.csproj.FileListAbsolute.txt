@@ -1,0 +1,13 @@
+D:\C_Sharp\Lectia13XML\Lectia13XML\bin\Debug\netcoreapp3.1\Lectia13XML.exe
+D:\C_Sharp\Lectia13XML\Lectia13XML\bin\Debug\netcoreapp3.1\Lectia13XML.deps.json
+D:\C_Sharp\Lectia13XML\Lectia13XML\bin\Debug\netcoreapp3.1\Lectia13XML.runtimeconfig.json
+D:\C_Sharp\Lectia13XML\Lectia13XML\bin\Debug\netcoreapp3.1\Lectia13XML.runtimeconfig.dev.json
+D:\C_Sharp\Lectia13XML\Lectia13XML\bin\Debug\netcoreapp3.1\Lectia13XML.dll
+D:\C_Sharp\Lectia13XML\Lectia13XML\bin\Debug\netcoreapp3.1\Lectia13XML.pdb
+D:\C_Sharp\Lectia13XML\Lectia13XML\obj\Debug\netcoreapp3.1\Lectia13XML.csprojAssemblyReference.cache
+D:\C_Sharp\Lectia13XML\Lectia13XML\obj\Debug\netcoreapp3.1\Lectia13XML.csproj.CoreCompileInputs.cache
+D:\C_Sharp\Lectia13XML\Lectia13XML\obj\Debug\netcoreapp3.1\Lectia13XML.AssemblyInfoInputs.cache
+D:\C_Sharp\Lectia13XML\Lectia13XML\obj\Debug\netcoreapp3.1\Lectia13XML.AssemblyInfo.cs
+D:\C_Sharp\Lectia13XML\Lectia13XML\obj\Debug\netcoreapp3.1\Lectia13XML.dll
+D:\C_Sharp\Lectia13XML\Lectia13XML\obj\Debug\netcoreapp3.1\Lectia13XML.pdb
+D:\C_Sharp\Lectia13XML\Lectia13XML\obj\Debug\netcoreapp3.1\Lectia13XML.genruntimeconfig.cache

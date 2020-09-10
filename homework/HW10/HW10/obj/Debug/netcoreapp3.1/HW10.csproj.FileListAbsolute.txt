@@ -1,0 +1,13 @@
+D:\C_Sharp\HW10\HW10\bin\Debug\netcoreapp3.1\HW10.exe
+D:\C_Sharp\HW10\HW10\bin\Debug\netcoreapp3.1\HW10.deps.json
+D:\C_Sharp\HW10\HW10\bin\Debug\netcoreapp3.1\HW10.runtimeconfig.json
+D:\C_Sharp\HW10\HW10\bin\Debug\netcoreapp3.1\HW10.runtimeconfig.dev.json
+D:\C_Sharp\HW10\HW10\bin\Debug\netcoreapp3.1\HW10.dll
+D:\C_Sharp\HW10\HW10\bin\Debug\netcoreapp3.1\HW10.pdb
+D:\C_Sharp\HW10\HW10\obj\Debug\netcoreapp3.1\HW10.csprojAssemblyReference.cache
+D:\C_Sharp\HW10\HW10\obj\Debug\netcoreapp3.1\HW10.csproj.CoreCompileInputs.cache
+D:\C_Sharp\HW10\HW10\obj\Debug\netcoreapp3.1\HW10.AssemblyInfoInputs.cache
+D:\C_Sharp\HW10\HW10\obj\Debug\netcoreapp3.1\HW10.AssemblyInfo.cs
+D:\C_Sharp\HW10\HW10\obj\Debug\netcoreapp3.1\HW10.dll
+D:\C_Sharp\HW10\HW10\obj\Debug\netcoreapp3.1\HW10.pdb
+D:\C_Sharp\HW10\HW10\obj\Debug\netcoreapp3.1\HW10.genruntimeconfig.cache

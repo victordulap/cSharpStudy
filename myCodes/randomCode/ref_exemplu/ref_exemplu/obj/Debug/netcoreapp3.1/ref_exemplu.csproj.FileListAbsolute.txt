@@ -1,0 +1,13 @@
+D:\C_Sharp\ref_exemplu\ref_exemplu\bin\Debug\netcoreapp3.1\ref_exemplu.exe
+D:\C_Sharp\ref_exemplu\ref_exemplu\bin\Debug\netcoreapp3.1\ref_exemplu.deps.json
+D:\C_Sharp\ref_exemplu\ref_exemplu\bin\Debug\netcoreapp3.1\ref_exemplu.runtimeconfig.json
+D:\C_Sharp\ref_exemplu\ref_exemplu\bin\Debug\netcoreapp3.1\ref_exemplu.runtimeconfig.dev.json
+D:\C_Sharp\ref_exemplu\ref_exemplu\bin\Debug\netcoreapp3.1\ref_exemplu.dll
+D:\C_Sharp\ref_exemplu\ref_exemplu\bin\Debug\netcoreapp3.1\ref_exemplu.pdb
+D:\C_Sharp\ref_exemplu\ref_exemplu\obj\Debug\netcoreapp3.1\ref_exemplu.csprojAssemblyReference.cache
+D:\C_Sharp\ref_exemplu\ref_exemplu\obj\Debug\netcoreapp3.1\ref_exemplu.csproj.CoreCompileInputs.cache
+D:\C_Sharp\ref_exemplu\ref_exemplu\obj\Debug\netcoreapp3.1\ref_exemplu.AssemblyInfoInputs.cache
+D:\C_Sharp\ref_exemplu\ref_exemplu\obj\Debug\netcoreapp3.1\ref_exemplu.AssemblyInfo.cs
+D:\C_Sharp\ref_exemplu\ref_exemplu\obj\Debug\netcoreapp3.1\ref_exemplu.dll
+D:\C_Sharp\ref_exemplu\ref_exemplu\obj\Debug\netcoreapp3.1\ref_exemplu.pdb
+D:\C_Sharp\ref_exemplu\ref_exemplu\obj\Debug\netcoreapp3.1\ref_exemplu.genruntimeconfig.cache

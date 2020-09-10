@@ -1,0 +1,13 @@
+D:\C_Sharp\SingleTon_and_GetSet\SingleTon_and_GetSet\bin\Debug\netcoreapp3.1\SingleTon_and_GetSet.exe
+D:\C_Sharp\SingleTon_and_GetSet\SingleTon_and_GetSet\bin\Debug\netcoreapp3.1\SingleTon_and_GetSet.deps.json
+D:\C_Sharp\SingleTon_and_GetSet\SingleTon_and_GetSet\bin\Debug\netcoreapp3.1\SingleTon_and_GetSet.runtimeconfig.json
+D:\C_Sharp\SingleTon_and_GetSet\SingleTon_and_GetSet\bin\Debug\netcoreapp3.1\SingleTon_and_GetSet.runtimeconfig.dev.json
+D:\C_Sharp\SingleTon_and_GetSet\SingleTon_and_GetSet\bin\Debug\netcoreapp3.1\SingleTon_and_GetSet.dll
+D:\C_Sharp\SingleTon_and_GetSet\SingleTon_and_GetSet\bin\Debug\netcoreapp3.1\SingleTon_and_GetSet.pdb
+D:\C_Sharp\SingleTon_and_GetSet\SingleTon_and_GetSet\obj\Debug\netcoreapp3.1\SingleTon_and_GetSet.csprojAssemblyReference.cache
+D:\C_Sharp\SingleTon_and_GetSet\SingleTon_and_GetSet\obj\Debug\netcoreapp3.1\SingleTon_and_GetSet.csproj.CoreCompileInputs.cache
+D:\C_Sharp\SingleTon_and_GetSet\SingleTon_and_GetSet\obj\Debug\netcoreapp3.1\SingleTon_and_GetSet.AssemblyInfoInputs.cache
+D:\C_Sharp\SingleTon_and_GetSet\SingleTon_and_GetSet\obj\Debug\netcoreapp3.1\SingleTon_and_GetSet.AssemblyInfo.cs
+D:\C_Sharp\SingleTon_and_GetSet\SingleTon_and_GetSet\obj\Debug\netcoreapp3.1\SingleTon_and_GetSet.dll
+D:\C_Sharp\SingleTon_and_GetSet\SingleTon_and_GetSet\obj\Debug\netcoreapp3.1\SingleTon_and_GetSet.pdb
+D:\C_Sharp\SingleTon_and_GetSet\SingleTon_and_GetSet\obj\Debug\netcoreapp3.1\SingleTon_and_GetSet.genruntimeconfig.cache

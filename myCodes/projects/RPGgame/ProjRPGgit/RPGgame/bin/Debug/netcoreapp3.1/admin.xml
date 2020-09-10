@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Hero xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <HP>546</HP>
+  <Damage>60</Damage>
+  <Level>2</Level>
+  <Name>admin</Name>
+  <Password>admin</Password>
+  <Exp>70</Exp>
+  <GameLevel>2</GameLevel>
+  <Exp_Per_Level>112</Exp_Per_Level>
+</Hero>

@@ -1,0 +1,12 @@
+D:\C_Sharp\exemplu_Singleton\exemplu_Singleton\bin\Debug\netcoreapp3.1\exemplu_Singleton.exe
+D:\C_Sharp\exemplu_Singleton\exemplu_Singleton\bin\Debug\netcoreapp3.1\exemplu_Singleton.deps.json
+D:\C_Sharp\exemplu_Singleton\exemplu_Singleton\bin\Debug\netcoreapp3.1\exemplu_Singleton.runtimeconfig.json
+D:\C_Sharp\exemplu_Singleton\exemplu_Singleton\bin\Debug\netcoreapp3.1\exemplu_Singleton.runtimeconfig.dev.json
+D:\C_Sharp\exemplu_Singleton\exemplu_Singleton\bin\Debug\netcoreapp3.1\exemplu_Singleton.dll
+D:\C_Sharp\exemplu_Singleton\exemplu_Singleton\bin\Debug\netcoreapp3.1\exemplu_Singleton.pdb
+D:\C_Sharp\exemplu_Singleton\exemplu_Singleton\obj\Debug\netcoreapp3.1\exemplu_Singleton.csproj.CoreCompileInputs.cache
+D:\C_Sharp\exemplu_Singleton\exemplu_Singleton\obj\Debug\netcoreapp3.1\exemplu_Singleton.AssemblyInfoInputs.cache
+D:\C_Sharp\exemplu_Singleton\exemplu_Singleton\obj\Debug\netcoreapp3.1\exemplu_Singleton.AssemblyInfo.cs
+D:\C_Sharp\exemplu_Singleton\exemplu_Singleton\obj\Debug\netcoreapp3.1\exemplu_Singleton.dll
+D:\C_Sharp\exemplu_Singleton\exemplu_Singleton\obj\Debug\netcoreapp3.1\exemplu_Singleton.pdb
+D:\C_Sharp\exemplu_Singleton\exemplu_Singleton\obj\Debug\netcoreapp3.1\exemplu_Singleton.genruntimeconfig.cache

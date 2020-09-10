@@ -1,0 +1,13 @@
+D:\C_Sharp\HW_2\HW_2\bin\Debug\netcoreapp3.1\HW_2.exe
+D:\C_Sharp\HW_2\HW_2\bin\Debug\netcoreapp3.1\HW_2.deps.json
+D:\C_Sharp\HW_2\HW_2\bin\Debug\netcoreapp3.1\HW_2.runtimeconfig.json
+D:\C_Sharp\HW_2\HW_2\bin\Debug\netcoreapp3.1\HW_2.runtimeconfig.dev.json
+D:\C_Sharp\HW_2\HW_2\bin\Debug\netcoreapp3.1\HW_2.dll
+D:\C_Sharp\HW_2\HW_2\bin\Debug\netcoreapp3.1\HW_2.pdb
+D:\C_Sharp\HW_2\HW_2\obj\Debug\netcoreapp3.1\HW_2.csprojAssemblyReference.cache
+D:\C_Sharp\HW_2\HW_2\obj\Debug\netcoreapp3.1\HW_2.csproj.CoreCompileInputs.cache
+D:\C_Sharp\HW_2\HW_2\obj\Debug\netcoreapp3.1\HW_2.AssemblyInfoInputs.cache
+D:\C_Sharp\HW_2\HW_2\obj\Debug\netcoreapp3.1\HW_2.AssemblyInfo.cs
+D:\C_Sharp\HW_2\HW_2\obj\Debug\netcoreapp3.1\HW_2.dll
+D:\C_Sharp\HW_2\HW_2\obj\Debug\netcoreapp3.1\HW_2.pdb
+D:\C_Sharp\HW_2\HW_2\obj\Debug\netcoreapp3.1\HW_2.genruntimeconfig.cache

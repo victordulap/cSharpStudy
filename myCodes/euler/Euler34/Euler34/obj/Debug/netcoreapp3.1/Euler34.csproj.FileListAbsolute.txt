@@ -1,0 +1,13 @@
+D:\C_Sharp\Euler34\Euler34\obj\Debug\netcoreapp3.1\Euler34.csprojAssemblyReference.cache
+D:\C_Sharp\Euler34\Euler34\obj\Debug\netcoreapp3.1\Euler34.AssemblyInfoInputs.cache
+D:\C_Sharp\Euler34\Euler34\obj\Debug\netcoreapp3.1\Euler34.AssemblyInfo.cs
+D:\C_Sharp\Euler34\Euler34\obj\Debug\netcoreapp3.1\Euler34.csproj.CoreCompileInputs.cache
+D:\C_Sharp\Euler34\Euler34\bin\Debug\netcoreapp3.1\Euler34.exe
+D:\C_Sharp\Euler34\Euler34\bin\Debug\netcoreapp3.1\Euler34.deps.json
+D:\C_Sharp\Euler34\Euler34\bin\Debug\netcoreapp3.1\Euler34.runtimeconfig.json
+D:\C_Sharp\Euler34\Euler34\bin\Debug\netcoreapp3.1\Euler34.runtimeconfig.dev.json
+D:\C_Sharp\Euler34\Euler34\bin\Debug\netcoreapp3.1\Euler34.dll
+D:\C_Sharp\Euler34\Euler34\bin\Debug\netcoreapp3.1\Euler34.pdb
+D:\C_Sharp\Euler34\Euler34\obj\Debug\netcoreapp3.1\Euler34.dll
+D:\C_Sharp\Euler34\Euler34\obj\Debug\netcoreapp3.1\Euler34.pdb
+D:\C_Sharp\Euler34\Euler34\obj\Debug\netcoreapp3.1\Euler34.genruntimeconfig.cache

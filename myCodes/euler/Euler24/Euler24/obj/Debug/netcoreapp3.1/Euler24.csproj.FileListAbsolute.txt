@@ -1,0 +1,13 @@
+D:\C_Sharp\Euler24\Euler24\bin\Debug\netcoreapp3.1\Euler24.exe
+D:\C_Sharp\Euler24\Euler24\bin\Debug\netcoreapp3.1\Euler24.deps.json
+D:\C_Sharp\Euler24\Euler24\bin\Debug\netcoreapp3.1\Euler24.runtimeconfig.json
+D:\C_Sharp\Euler24\Euler24\bin\Debug\netcoreapp3.1\Euler24.runtimeconfig.dev.json
+D:\C_Sharp\Euler24\Euler24\bin\Debug\netcoreapp3.1\Euler24.dll
+D:\C_Sharp\Euler24\Euler24\bin\Debug\netcoreapp3.1\Euler24.pdb
+D:\C_Sharp\Euler24\Euler24\obj\Debug\netcoreapp3.1\Euler24.csprojAssemblyReference.cache
+D:\C_Sharp\Euler24\Euler24\obj\Debug\netcoreapp3.1\Euler24.AssemblyInfoInputs.cache
+D:\C_Sharp\Euler24\Euler24\obj\Debug\netcoreapp3.1\Euler24.AssemblyInfo.cs
+D:\C_Sharp\Euler24\Euler24\obj\Debug\netcoreapp3.1\Euler24.csproj.CoreCompileInputs.cache
+D:\C_Sharp\Euler24\Euler24\obj\Debug\netcoreapp3.1\Euler24.dll
+D:\C_Sharp\Euler24\Euler24\obj\Debug\netcoreapp3.1\Euler24.pdb
+D:\C_Sharp\Euler24\Euler24\obj\Debug\netcoreapp3.1\Euler24.genruntimeconfig.cache

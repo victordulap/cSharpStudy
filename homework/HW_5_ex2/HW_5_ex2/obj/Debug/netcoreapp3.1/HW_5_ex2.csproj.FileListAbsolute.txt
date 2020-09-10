@@ -1,0 +1,12 @@
+D:\C_Sharp\HW_5_ex2\HW_5_ex2\bin\Debug\netcoreapp3.1\HW_5_ex2.exe
+D:\C_Sharp\HW_5_ex2\HW_5_ex2\bin\Debug\netcoreapp3.1\HW_5_ex2.deps.json
+D:\C_Sharp\HW_5_ex2\HW_5_ex2\bin\Debug\netcoreapp3.1\HW_5_ex2.runtimeconfig.json
+D:\C_Sharp\HW_5_ex2\HW_5_ex2\bin\Debug\netcoreapp3.1\HW_5_ex2.runtimeconfig.dev.json
+D:\C_Sharp\HW_5_ex2\HW_5_ex2\bin\Debug\netcoreapp3.1\HW_5_ex2.dll
+D:\C_Sharp\HW_5_ex2\HW_5_ex2\bin\Debug\netcoreapp3.1\HW_5_ex2.pdb
+D:\C_Sharp\HW_5_ex2\HW_5_ex2\obj\Debug\netcoreapp3.1\HW_5_ex2.csproj.CoreCompileInputs.cache
+D:\C_Sharp\HW_5_ex2\HW_5_ex2\obj\Debug\netcoreapp3.1\HW_5_ex2.AssemblyInfoInputs.cache
+D:\C_Sharp\HW_5_ex2\HW_5_ex2\obj\Debug\netcoreapp3.1\HW_5_ex2.AssemblyInfo.cs
+D:\C_Sharp\HW_5_ex2\HW_5_ex2\obj\Debug\netcoreapp3.1\HW_5_ex2.dll
+D:\C_Sharp\HW_5_ex2\HW_5_ex2\obj\Debug\netcoreapp3.1\HW_5_ex2.pdb
+D:\C_Sharp\HW_5_ex2\HW_5_ex2\obj\Debug\netcoreapp3.1\HW_5_ex2.genruntimeconfig.cache

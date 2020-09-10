@@ -1,0 +1,13 @@
+D:\C_Sharp\Euler25\Euler25\bin\Debug\netcoreapp3.1\Euler25.exe
+D:\C_Sharp\Euler25\Euler25\bin\Debug\netcoreapp3.1\Euler25.deps.json
+D:\C_Sharp\Euler25\Euler25\bin\Debug\netcoreapp3.1\Euler25.runtimeconfig.json
+D:\C_Sharp\Euler25\Euler25\bin\Debug\netcoreapp3.1\Euler25.runtimeconfig.dev.json
+D:\C_Sharp\Euler25\Euler25\bin\Debug\netcoreapp3.1\Euler25.dll
+D:\C_Sharp\Euler25\Euler25\bin\Debug\netcoreapp3.1\Euler25.pdb
+D:\C_Sharp\Euler25\Euler25\obj\Debug\netcoreapp3.1\Euler25.csprojAssemblyReference.cache
+D:\C_Sharp\Euler25\Euler25\obj\Debug\netcoreapp3.1\Euler25.AssemblyInfoInputs.cache
+D:\C_Sharp\Euler25\Euler25\obj\Debug\netcoreapp3.1\Euler25.AssemblyInfo.cs
+D:\C_Sharp\Euler25\Euler25\obj\Debug\netcoreapp3.1\Euler25.csproj.CoreCompileInputs.cache
+D:\C_Sharp\Euler25\Euler25\obj\Debug\netcoreapp3.1\Euler25.dll
+D:\C_Sharp\Euler25\Euler25\obj\Debug\netcoreapp3.1\Euler25.pdb
+D:\C_Sharp\Euler25\Euler25\obj\Debug\netcoreapp3.1\Euler25.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\C_Sharp\RPGgame\ProjRPGgit\RPGgame\bin\Debug\netcoreapp3.1\RPGgame.exe
+D:\C_Sharp\RPGgame\ProjRPGgit\RPGgame\bin\Debug\netcoreapp3.1\RPGgame.deps.json
+D:\C_Sharp\RPGgame\ProjRPGgit\RPGgame\bin\Debug\netcoreapp3.1\RPGgame.runtimeconfig.json
+D:\C_Sharp\RPGgame\ProjRPGgit\RPGgame\bin\Debug\netcoreapp3.1\RPGgame.runtimeconfig.dev.json
+D:\C_Sharp\RPGgame\ProjRPGgit\RPGgame\bin\Debug\netcoreapp3.1\RPGgame.dll
+D:\C_Sharp\RPGgame\ProjRPGgit\RPGgame\bin\Debug\netcoreapp3.1\RPGgame.pdb
+D:\C_Sharp\RPGgame\ProjRPGgit\RPGgame\obj\Debug\netcoreapp3.1\RPGgame.csprojAssemblyReference.cache
+D:\C_Sharp\RPGgame\ProjRPGgit\RPGgame\obj\Debug\netcoreapp3.1\RPGgame.csproj.CoreCompileInputs.cache
+D:\C_Sharp\RPGgame\ProjRPGgit\RPGgame\obj\Debug\netcoreapp3.1\RPGgame.AssemblyInfoInputs.cache
+D:\C_Sharp\RPGgame\ProjRPGgit\RPGgame\obj\Debug\netcoreapp3.1\RPGgame.AssemblyInfo.cs
+D:\C_Sharp\RPGgame\ProjRPGgit\RPGgame\obj\Debug\netcoreapp3.1\RPGgame.dll
+D:\C_Sharp\RPGgame\ProjRPGgit\RPGgame\obj\Debug\netcoreapp3.1\RPGgame.pdb
+D:\C_Sharp\RPGgame\ProjRPGgit\RPGgame\obj\Debug\netcoreapp3.1\RPGgame.genruntimeconfig.cache

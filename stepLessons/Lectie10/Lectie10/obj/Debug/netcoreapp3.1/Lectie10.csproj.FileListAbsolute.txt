@@ -1,0 +1,13 @@
+D:\C_Sharp\Lectie10\Lectie10\bin\Debug\netcoreapp3.1\Lectie10.exe
+D:\C_Sharp\Lectie10\Lectie10\bin\Debug\netcoreapp3.1\Lectie10.deps.json
+D:\C_Sharp\Lectie10\Lectie10\bin\Debug\netcoreapp3.1\Lectie10.runtimeconfig.json
+D:\C_Sharp\Lectie10\Lectie10\bin\Debug\netcoreapp3.1\Lectie10.runtimeconfig.dev.json
+D:\C_Sharp\Lectie10\Lectie10\bin\Debug\netcoreapp3.1\Lectie10.dll
+D:\C_Sharp\Lectie10\Lectie10\bin\Debug\netcoreapp3.1\Lectie10.pdb
+D:\C_Sharp\Lectie10\Lectie10\obj\Debug\netcoreapp3.1\Lectie10.csprojAssemblyReference.cache
+D:\C_Sharp\Lectie10\Lectie10\obj\Debug\netcoreapp3.1\Lectie10.csproj.CoreCompileInputs.cache
+D:\C_Sharp\Lectie10\Lectie10\obj\Debug\netcoreapp3.1\Lectie10.AssemblyInfoInputs.cache
+D:\C_Sharp\Lectie10\Lectie10\obj\Debug\netcoreapp3.1\Lectie10.AssemblyInfo.cs
+D:\C_Sharp\Lectie10\Lectie10\obj\Debug\netcoreapp3.1\Lectie10.dll
+D:\C_Sharp\Lectie10\Lectie10\obj\Debug\netcoreapp3.1\Lectie10.pdb
+D:\C_Sharp\Lectie10\Lectie10\obj\Debug\netcoreapp3.1\Lectie10.genruntimeconfig.cache
