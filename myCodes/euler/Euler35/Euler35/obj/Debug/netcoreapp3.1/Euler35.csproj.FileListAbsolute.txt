@@ -11,3 +11,16 @@ D:\C_Sharp\Euler35\Euler35\obj\Debug\netcoreapp3.1\Euler35.csproj.CoreCompileInp
 D:\C_Sharp\Euler35\Euler35\obj\Debug\netcoreapp3.1\Euler35.dll
 D:\C_Sharp\Euler35\Euler35\obj\Debug\netcoreapp3.1\Euler35.pdb
 D:\C_Sharp\Euler35\Euler35\obj\Debug\netcoreapp3.1\Euler35.genruntimeconfig.cache
+D:\C_Sharp\myCodes\euler\Euler35\Euler35\bin\Debug\netcoreapp3.1\Euler35.exe
+D:\C_Sharp\myCodes\euler\Euler35\Euler35\bin\Debug\netcoreapp3.1\Euler35.deps.json
+D:\C_Sharp\myCodes\euler\Euler35\Euler35\bin\Debug\netcoreapp3.1\Euler35.runtimeconfig.json
+D:\C_Sharp\myCodes\euler\Euler35\Euler35\bin\Debug\netcoreapp3.1\Euler35.runtimeconfig.dev.json
+D:\C_Sharp\myCodes\euler\Euler35\Euler35\bin\Debug\netcoreapp3.1\Euler35.dll
+D:\C_Sharp\myCodes\euler\Euler35\Euler35\bin\Debug\netcoreapp3.1\Euler35.pdb
+D:\C_Sharp\myCodes\euler\Euler35\Euler35\obj\Debug\netcoreapp3.1\Euler35.csprojAssemblyReference.cache
+D:\C_Sharp\myCodes\euler\Euler35\Euler35\obj\Debug\netcoreapp3.1\Euler35.AssemblyInfoInputs.cache
+D:\C_Sharp\myCodes\euler\Euler35\Euler35\obj\Debug\netcoreapp3.1\Euler35.AssemblyInfo.cs
+D:\C_Sharp\myCodes\euler\Euler35\Euler35\obj\Debug\netcoreapp3.1\Euler35.csproj.CoreCompileInputs.cache
+D:\C_Sharp\myCodes\euler\Euler35\Euler35\obj\Debug\netcoreapp3.1\Euler35.dll
+D:\C_Sharp\myCodes\euler\Euler35\Euler35\obj\Debug\netcoreapp3.1\Euler35.pdb
+D:\C_Sharp\myCodes\euler\Euler35\Euler35\obj\Debug\netcoreapp3.1\Euler35.genruntimeconfig.cache

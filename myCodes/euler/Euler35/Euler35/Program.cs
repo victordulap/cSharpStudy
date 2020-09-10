@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
+using System.Diagnostics;
 
 namespace Euler35
 {
@@ -8,25 +8,26 @@ namespace Euler35
     {
         static void Main(string[] args)
         {
-            //do
-            //{
-            //    int n = Convert.ToInt32(Console.ReadLine());
-            //    Console.WriteLine(Prime(n));
-            //} while (true);
+            Stopwatch clock = Stopwatch.StartNew();
 
-            List<int> x = Rotations(197);
-            foreach (var item in x)
+            int count = 0;
+            for (int i = 2; i < 1000000; i++)
             {
-                Console.WriteLine(item);
+                if (Prime(i))
+                {
+                    if (RotationsPrime(i))
+                    {
+                        count++;
+                        Console.WriteLine(i);
+                    }
+                }
+                //Console.WriteLine("i: " + i);
             }
 
-            Console.WriteLine();
+            Console.WriteLine(count);
 
-            x = Rotations(197);
-            foreach (var item in x)
-            {
-                Console.WriteLine(item);
-            }
+            clock.Stop();
+            Console.WriteLine($"Elapsed time: {clock.ElapsedMilliseconds} ms.");
         }
 
         static bool Prime(int nr)
@@ -47,11 +48,14 @@ namespace Euler35
             List<int> rezult = new List<int>();
 
             string str = nr.ToString();
+
+            if (str.Contains('0')) { rezult.Add(0); return rezult; }
+
             int len = nr.ToString().Length;
 
             rezult.Add(nr);
 
-            
+
             for (int i = 0; i < len - 1; i++)
             {
                 char[] nrToAdd = new char[str.Length];
@@ -71,40 +75,23 @@ namespace Euler35
                     nrToAdd[j] = s[poz];
                 }
 
-                string s2 = new string(nrToAdd);
-                rezult.Add(Convert.ToInt32(s2));
+                s = new string(nrToAdd);
+                rezult.Add(Convert.ToInt32(s));
             }
 
-            #region
-            //int[] nums = new int[str.Length];
-            //for (int i = 0; i < nums.Length; i++)
-            //{
-            //    nums[i] = 0;
-            //}
-
-            //int k = 0;
-            //for (int i = 0; i < str.Length; i++)
-            //{
-            //    for (int j = 0; j < str.Length; j++, k++)
-            //    {
-            //        nums[j] += Convert.ToInt32(str[i] - 48) * (int)(Math.Pow(10,k));
-            //        Console.WriteLine($"i: {i}, j: {j}, nums[j] = {nums[j]}");
-            //    }
-            //}
-
-            //for (int i = 0; i < nums.Length; i++)
-            //{
-            //    rezult.Add(nums[i]);
-            //}
-
-            //for (int i = 1; i < rezult.Count; i++)
-            //{
-            //    string strNr;
-
-            //}
-            #endregion
-
             return rezult;
+        }
+
+        static bool RotationsPrime(int nr)
+        {
+            List<int> list = Rotations(nr);
+
+            foreach (int item in list)
+            {
+                if (!(Prime(item))) return false;
+            }
+
+            return true;
         }
     }
 }

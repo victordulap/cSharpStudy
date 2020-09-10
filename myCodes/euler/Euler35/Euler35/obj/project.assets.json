@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C_Sharp\\Euler35\\Euler35\\Euler35.csproj",
+      "projectUniqueName": "D:\\C_Sharp\\myCodes\\euler\\Euler35\\Euler35\\Euler35.csproj",
       "projectName": "Euler35",
-      "projectPath": "D:\\C_Sharp\\Euler35\\Euler35\\Euler35.csproj",
+      "projectPath": "D:\\C_Sharp\\myCodes\\euler\\Euler35\\Euler35\\Euler35.csproj",
       "packagesPath": "C:\\Users\\anunachi\\.nuget\\packages\\",
-      "outputPath": "D:\\C_Sharp\\Euler35\\Euler35\\obj\\",
+      "outputPath": "D:\\C_Sharp\\myCodes\\euler\\Euler35\\Euler35\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\anunachi\\AppData\\Roaming\\NuGet\\NuGet.Config",
