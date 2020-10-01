@@ -1,0 +1,13 @@
+D:\C_Sharp\myCodes\euler\Euler36\Euler36\bin\Debug\netcoreapp3.1\Euler36.exe
+D:\C_Sharp\myCodes\euler\Euler36\Euler36\bin\Debug\netcoreapp3.1\Euler36.deps.json
+D:\C_Sharp\myCodes\euler\Euler36\Euler36\bin\Debug\netcoreapp3.1\Euler36.runtimeconfig.json
+D:\C_Sharp\myCodes\euler\Euler36\Euler36\bin\Debug\netcoreapp3.1\Euler36.runtimeconfig.dev.json
+D:\C_Sharp\myCodes\euler\Euler36\Euler36\bin\Debug\netcoreapp3.1\Euler36.dll
+D:\C_Sharp\myCodes\euler\Euler36\Euler36\bin\Debug\netcoreapp3.1\Euler36.pdb
+D:\C_Sharp\myCodes\euler\Euler36\Euler36\obj\Debug\netcoreapp3.1\Euler36.csprojAssemblyReference.cache
+D:\C_Sharp\myCodes\euler\Euler36\Euler36\obj\Debug\netcoreapp3.1\Euler36.AssemblyInfoInputs.cache
+D:\C_Sharp\myCodes\euler\Euler36\Euler36\obj\Debug\netcoreapp3.1\Euler36.AssemblyInfo.cs
+D:\C_Sharp\myCodes\euler\Euler36\Euler36\obj\Debug\netcoreapp3.1\Euler36.csproj.CoreCompileInputs.cache
+D:\C_Sharp\myCodes\euler\Euler36\Euler36\obj\Debug\netcoreapp3.1\Euler36.dll
+D:\C_Sharp\myCodes\euler\Euler36\Euler36\obj\Debug\netcoreapp3.1\Euler36.pdb
+D:\C_Sharp\myCodes\euler\Euler36\Euler36\obj\Debug\netcoreapp3.1\Euler36.genruntimeconfig.cache
