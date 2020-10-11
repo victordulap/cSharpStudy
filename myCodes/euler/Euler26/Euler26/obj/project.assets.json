@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C_Sharp\\Euler26\\Euler26\\Euler26.csproj",
+      "projectUniqueName": "D:\\C_Sharp\\myCodes\\euler\\Euler26\\Euler26\\Euler26.csproj",
       "projectName": "Euler26",
-      "projectPath": "D:\\C_Sharp\\Euler26\\Euler26\\Euler26.csproj",
+      "projectPath": "D:\\C_Sharp\\myCodes\\euler\\Euler26\\Euler26\\Euler26.csproj",
       "packagesPath": "C:\\Users\\anunachi\\.nuget\\packages\\",
-      "outputPath": "D:\\C_Sharp\\Euler26\\Euler26\\obj\\",
+      "outputPath": "D:\\C_Sharp\\myCodes\\euler\\Euler26\\Euler26\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\anunachi\\AppData\\Roaming\\NuGet\\NuGet.Config",

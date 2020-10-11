@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Numerics;
 
 namespace Euler26
@@ -7,18 +8,18 @@ namespace Euler26
     {
         static void Main(string[] args)
         {
-            for (int i = 2; i <= 100; i++)
+            for (int i = 2; i <= 10; i++)
             {
-                string str = (1000000000000000000 / Convert.ToDecimal(i)).ToString();
-                if (str.Contains('.'))
-                    str = str.Remove(str.IndexOf('.'), 1);
-                Console.WriteLine(i + ". " + str);
+                string str = ((decimal)1 / i).ToString();
+                str = str.Remove(0, 2);
+
+                Console.WriteLine(i + " | " + str);
             }
         }
 
-        static bool Reccuring(string nr)
+        static void Reccuring(string nr)
         {
-            return true;
+
         }
     }
 }

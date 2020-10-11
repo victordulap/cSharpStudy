@@ -11,3 +11,16 @@ D:\C_Sharp\Euler26\Euler26\obj\Debug\netcoreapp3.1\Euler26.csproj.CoreCompileInp
 D:\C_Sharp\Euler26\Euler26\obj\Debug\netcoreapp3.1\Euler26.dll
 D:\C_Sharp\Euler26\Euler26\obj\Debug\netcoreapp3.1\Euler26.pdb
 D:\C_Sharp\Euler26\Euler26\obj\Debug\netcoreapp3.1\Euler26.genruntimeconfig.cache
+D:\C_Sharp\myCodes\euler\Euler26\Euler26\bin\Debug\netcoreapp3.1\Euler26.exe
+D:\C_Sharp\myCodes\euler\Euler26\Euler26\bin\Debug\netcoreapp3.1\Euler26.deps.json
+D:\C_Sharp\myCodes\euler\Euler26\Euler26\bin\Debug\netcoreapp3.1\Euler26.runtimeconfig.json
+D:\C_Sharp\myCodes\euler\Euler26\Euler26\bin\Debug\netcoreapp3.1\Euler26.runtimeconfig.dev.json
+D:\C_Sharp\myCodes\euler\Euler26\Euler26\bin\Debug\netcoreapp3.1\Euler26.dll
+D:\C_Sharp\myCodes\euler\Euler26\Euler26\bin\Debug\netcoreapp3.1\Euler26.pdb
+D:\C_Sharp\myCodes\euler\Euler26\Euler26\obj\Debug\netcoreapp3.1\Euler26.csprojAssemblyReference.cache
+D:\C_Sharp\myCodes\euler\Euler26\Euler26\obj\Debug\netcoreapp3.1\Euler26.AssemblyInfoInputs.cache
+D:\C_Sharp\myCodes\euler\Euler26\Euler26\obj\Debug\netcoreapp3.1\Euler26.AssemblyInfo.cs
+D:\C_Sharp\myCodes\euler\Euler26\Euler26\obj\Debug\netcoreapp3.1\Euler26.csproj.CoreCompileInputs.cache
+D:\C_Sharp\myCodes\euler\Euler26\Euler26\obj\Debug\netcoreapp3.1\Euler26.dll
+D:\C_Sharp\myCodes\euler\Euler26\Euler26\obj\Debug\netcoreapp3.1\Euler26.pdb
+D:\C_Sharp\myCodes\euler\Euler26\Euler26\obj\Debug\netcoreapp3.1\Euler26.genruntimeconfig.cache
