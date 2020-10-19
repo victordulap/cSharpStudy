@@ -23,7 +23,7 @@ namespace Euler39
                 }
             }
 
-            Console.WriteLine(maxPerimeter);
+            Console.WriteLine(maxPerimeter + ", solutions: " + maxPerimeterSolutions);
 
             clock.Stop();
             Console.WriteLine($"Time {clock.ElapsedMilliseconds} ms.");

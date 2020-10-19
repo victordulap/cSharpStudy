@@ -87,10 +87,10 @@ namespace Euler38
                 {
                     if (IsPandigitalFrom1to9(concatinatedString))
                     {
+                            Console.WriteLine("max: " + max + " / " + number);
                         if (max < Convert.ToInt32(concatinatedString))
                         {
                             max = Convert.ToInt32(concatinatedString);
-                            Console.WriteLine("max: " + max + " / " + number);
                         }
                     }
                 }
