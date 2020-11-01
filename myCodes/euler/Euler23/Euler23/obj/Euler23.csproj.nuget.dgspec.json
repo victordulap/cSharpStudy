@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C_Sharp\\Euler23\\Euler23\\Euler23.csproj": {}
+    "D:\\C_Sharp\\myCodes\\euler\\Euler23\\Euler23\\Euler23.csproj": {}
   },
   "projects": {
-    "D:\\C_Sharp\\Euler23\\Euler23\\Euler23.csproj": {
+    "D:\\C_Sharp\\myCodes\\euler\\Euler23\\Euler23\\Euler23.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C_Sharp\\Euler23\\Euler23\\Euler23.csproj",
+        "projectUniqueName": "D:\\C_Sharp\\myCodes\\euler\\Euler23\\Euler23\\Euler23.csproj",
         "projectName": "Euler23",
-        "projectPath": "D:\\C_Sharp\\Euler23\\Euler23\\Euler23.csproj",
+        "projectPath": "D:\\C_Sharp\\myCodes\\euler\\Euler23\\Euler23\\Euler23.csproj",
         "packagesPath": "C:\\Users\\anunachi\\.nuget\\packages\\",
-        "outputPath": "D:\\C_Sharp\\Euler23\\Euler23\\obj\\",
+        "outputPath": "D:\\C_Sharp\\myCodes\\euler\\Euler23\\Euler23\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\anunachi\\AppData\\Roaming\\NuGet\\NuGet.Config",

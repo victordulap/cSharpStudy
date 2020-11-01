@@ -11,3 +11,16 @@ D:\C_Sharp\Euler23\Euler23\obj\Debug\netcoreapp3.1\Euler23.csproj.CoreCompileInp
 D:\C_Sharp\Euler23\Euler23\obj\Debug\netcoreapp3.1\Euler23.dll
 D:\C_Sharp\Euler23\Euler23\obj\Debug\netcoreapp3.1\Euler23.pdb
 D:\C_Sharp\Euler23\Euler23\obj\Debug\netcoreapp3.1\Euler23.genruntimeconfig.cache
+D:\C_Sharp\myCodes\euler\Euler23\Euler23\bin\Debug\netcoreapp3.1\Euler23.exe
+D:\C_Sharp\myCodes\euler\Euler23\Euler23\bin\Debug\netcoreapp3.1\Euler23.deps.json
+D:\C_Sharp\myCodes\euler\Euler23\Euler23\bin\Debug\netcoreapp3.1\Euler23.runtimeconfig.json
+D:\C_Sharp\myCodes\euler\Euler23\Euler23\bin\Debug\netcoreapp3.1\Euler23.runtimeconfig.dev.json
+D:\C_Sharp\myCodes\euler\Euler23\Euler23\bin\Debug\netcoreapp3.1\Euler23.dll
+D:\C_Sharp\myCodes\euler\Euler23\Euler23\bin\Debug\netcoreapp3.1\Euler23.pdb
+D:\C_Sharp\myCodes\euler\Euler23\Euler23\obj\Debug\netcoreapp3.1\Euler23.csprojAssemblyReference.cache
+D:\C_Sharp\myCodes\euler\Euler23\Euler23\obj\Debug\netcoreapp3.1\Euler23.AssemblyInfoInputs.cache
+D:\C_Sharp\myCodes\euler\Euler23\Euler23\obj\Debug\netcoreapp3.1\Euler23.AssemblyInfo.cs
+D:\C_Sharp\myCodes\euler\Euler23\Euler23\obj\Debug\netcoreapp3.1\Euler23.csproj.CoreCompileInputs.cache
+D:\C_Sharp\myCodes\euler\Euler23\Euler23\obj\Debug\netcoreapp3.1\Euler23.dll
+D:\C_Sharp\myCodes\euler\Euler23\Euler23\obj\Debug\netcoreapp3.1\Euler23.pdb
+D:\C_Sharp\myCodes\euler\Euler23\Euler23\obj\Debug\netcoreapp3.1\Euler23.genruntimeconfig.cache

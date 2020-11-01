@@ -1,0 +1,13 @@
+D:\C_Sharp\myCodes\euler\Euler45\Euler45\bin\Debug\netcoreapp3.1\Euler45.exe
+D:\C_Sharp\myCodes\euler\Euler45\Euler45\bin\Debug\netcoreapp3.1\Euler45.deps.json
+D:\C_Sharp\myCodes\euler\Euler45\Euler45\bin\Debug\netcoreapp3.1\Euler45.runtimeconfig.json
+D:\C_Sharp\myCodes\euler\Euler45\Euler45\bin\Debug\netcoreapp3.1\Euler45.runtimeconfig.dev.json
+D:\C_Sharp\myCodes\euler\Euler45\Euler45\bin\Debug\netcoreapp3.1\Euler45.dll
+D:\C_Sharp\myCodes\euler\Euler45\Euler45\bin\Debug\netcoreapp3.1\Euler45.pdb
+D:\C_Sharp\myCodes\euler\Euler45\Euler45\obj\Debug\netcoreapp3.1\Euler45.csprojAssemblyReference.cache
+D:\C_Sharp\myCodes\euler\Euler45\Euler45\obj\Debug\netcoreapp3.1\Euler45.AssemblyInfoInputs.cache
+D:\C_Sharp\myCodes\euler\Euler45\Euler45\obj\Debug\netcoreapp3.1\Euler45.AssemblyInfo.cs
+D:\C_Sharp\myCodes\euler\Euler45\Euler45\obj\Debug\netcoreapp3.1\Euler45.csproj.CoreCompileInputs.cache
+D:\C_Sharp\myCodes\euler\Euler45\Euler45\obj\Debug\netcoreapp3.1\Euler45.dll
+D:\C_Sharp\myCodes\euler\Euler45\Euler45\obj\Debug\netcoreapp3.1\Euler45.pdb
+D:\C_Sharp\myCodes\euler\Euler45\Euler45\obj\Debug\netcoreapp3.1\Euler45.genruntimeconfig.cache
